@@ -7,6 +7,7 @@ public class HelloWorldClass {
 			System.out.println("Hello World..."+i);
 		}
 		System.out.println("My First Program.");
+		System.out.println("Jenkins Job is Successfully integrated with GitHub");
 	}
 
 }
